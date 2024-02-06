@@ -1,0 +1,11 @@
+C:\Users\SGBr\Documents\Des\Splash\bin\Debug\Splash.exe.config
+C:\Users\SGBr\Documents\Des\Splash\bin\Debug\Splash.exe
+C:\Users\SGBr\Documents\Des\Splash\bin\Debug\Splash.pdb
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.csproj.AssemblyReference.cache
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.Form1.resources
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.Properties.Resources.resources
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.exe
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.pdb
+C:\Users\SGBr\Documents\Des\Splash\obj\Debug\Splash.Home.resources
